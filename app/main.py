@@ -168,4 +168,4 @@ def route_history(
 
 @app.get("/health")
 def health():
-    return {"status": "ok"}
+    return {"status": "lessgo"}
